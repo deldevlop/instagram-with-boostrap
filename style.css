@@ -1,0 +1,13 @@
+.dropdown-menu {
+    margin: -100px;
+}
+
+.nav-link {
+    color: #5a646b;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #0036cc;
+    background-color: white;
+}
